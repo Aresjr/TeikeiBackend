@@ -1,2 +1,2 @@
-# TeikeiBackend
-A platform to register your idea and find people to help you
+# Teikei Backend
+### You bring us the idea, we bring you the partners and insights. Powered by AI.
